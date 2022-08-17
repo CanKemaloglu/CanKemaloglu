@@ -38,6 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" alt="slack" width="40"/> 
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" title="slack" alt="slack" width="100"/> 
   
  </div>
 </div>
