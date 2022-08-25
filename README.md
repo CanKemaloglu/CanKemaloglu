@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="250"/>
-</div>
+![Can Kemaloğlu LinkedIn Banner](https://user-images.githubusercontent.com/108472471/186658333-022ad6a0-a01e-471b-8357-45de53726cbb.png)
+
+
 
 ----
 
