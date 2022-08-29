@@ -4,8 +4,8 @@
 
 ----
 
-<h1 align="left">Hi 👋, I'm Can Kemaloğlu</h1> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cankemaloglu&label=Profile%20views&color=0e75b6&style=flat" alt="cankemaloglu" /> </p>
+<h1 align="left">Hi ✌, I'm Can Kemaloğlu  <img src="https://komarev.com/ghpvc/?username=cankemaloglu&label=Profile%20views&color=orange&style=flat" alt="cankemaloglu"</h1> 
+
 <h3 align="left">A Data Analytics & Data Science & Machine Learning Enthusiast</h3>
 
 <h3 align="left"> Connect with me <img  src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> </h3>
@@ -47,7 +47,8 @@
 
 ### :fire: My Stats :
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=cankemaloglu&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=cankemaloglu&show_icons=true&theme=dracula&hide_border=True )
 
 ----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cankemaloglu&layout=compact&theme=dracula&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
