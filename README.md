@@ -8,7 +8,7 @@
 
 <h3 align="left">A Data Analytics & Data Science & Machine Learning Enthusiast</h3>
 
-<h3 align="left"> Connect with me <img  src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> </h3>
+<h3 align="left"> Connect with me </h3>
 
 
 <a href="[https://www.linkedin.com/in/zehra-kara-a4a4271a5/](https://linkedin.com/in/ahmet-can-kemaloglu)">
