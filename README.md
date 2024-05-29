@@ -4,7 +4,7 @@
 
 ----
 
-<h1 align="left">Hi ✌, I'm Can Kemaloğlu  <img src="https://komarev.com/ghpvc/?username=cankemaloglu&label=Profile%20views&color=orange&style=flat" alt="cankemaloglu"</h1> 
+<h1 align="left">Hi ✌, I'm Can Kemaloğlu  </h1> 
 
 <h3 align="left">A Data Analytics & Data Science & Machine Learning Enthusiast</h3>
 
