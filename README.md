@@ -12,11 +12,11 @@
 
 
 <a href="[https://www.linkedin.com/in/zehra-kara-a4a4271a5/](https://linkedin.com/in/ahmet-can-kemaloglu)">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Can Kemaloğlu | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
   
 <a href="mailto:acankemaloglu@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Can Kemaloğlu | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
 
 ----
@@ -29,6 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" title="mssql" alt="mssql" width="100" height="100"/>&nbsp;
   <img src="https://github.com/CanKemaloglu/CanKemaloglu/assets/108472471/475e201f-3985-4251-8dd1-78875a3eda3c" title="excel" alt="excel" width="100 height="100"/>&nbsp;
   <img src="https://github.com/CanKemaloglu/CanKemaloglu/assets/108472471/f502a6e1-55d6-41b3-9fd6-0663007f25ad" title="tableau" alt="tableau" width="150 height="100"/>&nbsp;  
+  <img src="https://github.com/CanKemaloglu/CanKemaloglu/assets/108472471/d4e8d492-0403-43d5-bd8c-bee86f535502" title="powerbi" alt="powerbi" width="100 height="100"/>&nbsp;  
+    
 </div>
 
 ----
