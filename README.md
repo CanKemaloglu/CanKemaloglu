@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" title="mssql" alt="mssql" width="100" height="100"/>&nbsp;
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" title="streamlit" alt="streamlit" width="150 height="100"/>&nbsp;
-   <img src=" https://icon-icons.com/icon/microsoft-office-365-excel-logo/145720" title="streamlit" alt="streamlit" width="150 height="100"/>&nbsp;
+   <img src="https://github.com/CanKemaloglu/CanKemaloglu/assets/108472471/475e201f-3985-4251-8dd1-78875a3eda3c" title="excel" alt="excel" width="100 height="100"/>&nbsp;
 
    
 </div>
