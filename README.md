@@ -27,21 +27,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" title="mssql" alt="mssql" width="100" height="100"/>&nbsp;
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" title="streamlit" alt="streamlit" width="150 height="100"/>&nbsp;
-   <img src="https://github.com/CanKemaloglu/CanKemaloglu/assets/108472471/475e201f-3985-4251-8dd1-78875a3eda3c" title="excel" alt="excel" width="100 height="100"/>&nbsp;
-
-   
+  <img src="https://github.com/CanKemaloglu/CanKemaloglu/assets/108472471/475e201f-3985-4251-8dd1-78875a3eda3c" title="excel" alt="excel" width="100 height="100"/>&nbsp;
+  <img src="https://github.com/CanKemaloglu/CanKemaloglu/assets/108472471/f502a6e1-55d6-41b3-9fd6-0663007f25ad" title="tableau" alt="tableau" width="150 height="100"/>&nbsp;  
 </div>
 
 ----
 
 <div align="left">
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" alt="slack" width="40"/> 
-   
-  
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" title="streamlit" alt="streamlit" width="150 height="100"/>&nbsp;
  </div>
 
