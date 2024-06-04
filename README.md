@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/> </a>
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40"/> </a>
 <img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" height="40"/>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height="40"/> </a>
@@ -42,13 +42,4 @@
   
  </div>
 </div>
-
-----
-
-### :fire: My Stats :
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=cankemaloglu&show_icons=true&theme=dracula&hide_border=True )
-
-----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cankemaloglu&layout=compact&theme=dracula&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
