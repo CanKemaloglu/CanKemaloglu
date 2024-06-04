@@ -6,7 +6,7 @@
 
 <h1 align="left">Hi ✌, I'm Can Kemaloğlu  </h1> 
 
-<h3 align="left">A Data Analytics & Data Science & Machine Learning Enthusiast</h3>
+<h3 align="left">A Data Analytics Enthusiast</h3>
 
 <h3 align="left"> Connect with me </h3>
 
@@ -22,24 +22,26 @@
 ----
 
 <h3 align="left">Languages and Tools:</h3>
+
 <div align="left">
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40"/> </a>
-<img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" height="40"/>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height="40"/> </a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" title="mssql" alt="mssql" width="100" height="100"/>&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" title="streamlit" alt="streamlit" width="150 height="100"/>&nbsp;
+   <img src=" https://icon-icons.com/icon/microsoft-office-365-excel-logo/145720" title="streamlit" alt="streamlit" width="150 height="100"/>&nbsp;
+
+   
+</div>
+
+----
+
+<div align="left">
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" alt="slack" width="40"/> 
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" title="streamlit" alt="streamlit" width="100"/> 
+   
   
  </div>
-</div>
 
